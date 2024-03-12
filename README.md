@@ -1,2 +1,4 @@
-# time-series-forecasting
-Financial time-series forecasting with LSTM in MATLAB from scratch
+## Time-Series Forecasting
+Time series forecasting with Matlab
+
+
